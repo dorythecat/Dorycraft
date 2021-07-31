@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Dory, a furry, cat lover, programming student, ethical hacker, and someone who loves to help other people out.
+- 👀 I’m interested in:
+     - Computers (The older the better)
+     - Coding
+     - Mathematics
+     - Electronics (The strangest the better)
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on anything, really. I want to help to make people happy and for them to get to their objectives.
+- 📫 How to reach me:
+     - Email: pemegomachado@gmail.com
+     - Discord: DORYCRAFT#3950
+     - Github: https://github.com/Dorycraft
+     - Reddit: https://www.reddit.com/user/Dorycraft
