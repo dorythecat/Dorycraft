@@ -4,7 +4,7 @@
      - Coding
      - Mathematics
      - Electronics (The strangest the better)
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on anything, really. I want to help to make people happy and for them to get to their objectives.
 - 📫 How to reach me:
      - Email: pemegomachado@gmail.com
